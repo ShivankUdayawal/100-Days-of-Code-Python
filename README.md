@@ -10,3 +10,4 @@
 - #### [Day 2](https://github.com/ShivankUdayawal/100-Days-of-Code-Python/tree/main/Day%202) : Understanding Data Types and How to Manipulate Strings
 - #### [Day 3](https://github.com/ShivankUdayawal/100-Days-of-Code-Python/tree/main/Day%203) : Control Flow and Logical Operators
 - #### [Day 4](https://github.com/ShivankUdayawal/100-Days-of-Code-Python/blob/main/Day%204) : Randomisation and Python Lists
+- #### [Day 5](https://github.com/ShivankUdayawal/100-Days-of-Code-Python/tree/main/Day%205) : Python Loops
