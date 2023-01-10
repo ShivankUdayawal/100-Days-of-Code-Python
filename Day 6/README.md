@@ -1,5 +1,6 @@
 # Day 6 - Python Functions & Karel
 ## Concepts
-Defining and Calling Python Functions
-Indentation in Python
-While Loops
+
+1. Defining and Calling Python Functions
+2. Indentation in Python
+3. While Loops
