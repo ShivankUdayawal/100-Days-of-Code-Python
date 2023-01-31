@@ -13,4 +13,3 @@
 - #### [Day 5](https://github.com/ShivankUdayawal/100-Days-of-Code-Python/tree/main/Day%205) : Python Loops
 - #### [Day 6](https://github.com/ShivankUdayawal/100-Days-of-Code-Python/tree/main/Day%206) : Python Functions & Karel
 - #### [Day 7](https://github.com/ShivankUdayawal/100-Days-of-Code-Python/tree/main/Day%207) : Hangman
-
